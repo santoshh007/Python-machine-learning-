@@ -4,10 +4,8 @@
 score=float(input("Your Score:"))
 if 90>=100:
  print("your grade is A")
-
 elif 80>=89:
  print("your grade is B")
-
 elif 70>=79:
  print("your grade is C")
 elif 60>=69:
